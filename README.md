@@ -1,7 +1,6 @@
 [![Issues](https://img.shields.io/github/issues/jainamoswal/Flask-Example?style=for-the-badge&color=green)](https://github.com/jainamoswal/Flask-Example/issues)
 [![Forks](https://img.shields.io/github/forks/jainamoswal/Flask-Example?style=for-the-badge&color=green)](https://github.com/jainamoswal/Flask-Example/fork)
 [![Stars](https://img.shields.io/github/stars/jainamoswal/Flask-Example?style=for-the-badge&color=green)](https://github.com/jainamoswal/Flask-Example)
-[![LICENSE](https://img.shields.io/github/license/jainamoswal/Flask-Example?color=green&style=for-the-badge)](https://github.com/jainamoswal/Flask-Example)
 [![Size](https://img.shields.io/github/repo-size/jainamoswal/Flask-Example?style=for-the-badge&color=green)](https://github.com/jainamoswal/Flask-Example)
 [![Contributors](https://img.shields.io/github/contributors/jainamoswal/Flask-Example?style=for-the-badge&color=green)](https://github.com/jainamoswal/Flask-Example)
 

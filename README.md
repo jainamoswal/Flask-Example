@@ -5,7 +5,15 @@
 [![Contributors](https://img.shields.io/github/contributors/jainamoswal/Flask-Example?style=for-the-badge&color=green)](https://github.com/jainamoswal/Flask-Example)
 
 ---
+| 🗺 Routes 🗺 | 🚧 Usage 🚧 | 
+| :-: | :-: |
+| `/api` | For API. |
+| `/file` | For streaming files. |
+| `/dl` | For downloading a file. |
+| `/<name>` | Says Hello! 🤚 |
+| `/code` | For redirection. |
 
+---
 ## How to use this ? 
 - Don't be scared 😬 by watching a ton files, Most are just to configure the deploy settings. 🏋️‍♂️
 - Star this repository. ⭐️

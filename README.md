@@ -38,10 +38,16 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jainamoswal/Flask-Example)
 </details>
  
-<details><summary>Replit.co 🌀</summary>
+<details><summary>Replit.com 🌀</summary>
 <br>
 
 [![Run on Repl.it](https://repl.it/badge/github/jainamoswal/Flask-Example)](https://repl.it/github/jainamoswal/Flask-Example)
+</details>
+
+<details><summary>Zeet.co 💪</summary>
+<br>
+ 
+[![Deploy](https://deploy.zeet.co/Flask-Example.svg)](https://deploy.zeet.co?url=https://github.com/jainamoswal/ForceHub/Flask-Example)
 </details>
 
 #### Adding some other hosting providers too 🤧 soon.

@@ -47,7 +47,7 @@
 <details><summary>Zeet.co 💪</summary>
 <br>
  
-[![Deploy](https://deploy.zeet.co/Flask-Example.svg)](https://deploy.zeet.co?url=https://github.com/jainamoswal/ForceHub/Flask-Example)
+[![Deploy](https://deploy.zeet.co/Flask-Example.svg)](https://deploy.zeet.co?url=https://github.com/jainamoswal/Flask-Example)
 </details>
 
 #### Adding some other hosting providers too 🤧 soon.

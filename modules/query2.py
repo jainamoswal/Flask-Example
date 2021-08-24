@@ -2,7 +2,7 @@ from app import app
 from flask import request
 
 
-@app.route('/query')
+@app.route('/query2')
 def query():
     args = request.args
 

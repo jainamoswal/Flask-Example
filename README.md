@@ -12,6 +12,12 @@
 | `/dl` | For downloading a file. |
 | `/<name>` | Says Hello! 🤚 |
 | `/code` | For redirection. |
+| `/cookies/set` | For setting cookies. |
+| `/cookies/get` | For retrieving cookies. |
+| `/cookies/del` | For deleting cookies. |
+| `/headers` | For working with Headers. |
+| `/ip` | For location based user interface. |
+| `/q` | For getting the parameters passed with URL. |
 
 ---
 ## How to use this ? 

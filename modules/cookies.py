@@ -14,8 +14,7 @@ def set():
 
 @app.route('/cookies/get')
 def get():
-    cookies = request.cookies
-    return cookies
+    return request.cookies
 
 
 @app.route('/cookies/del')
